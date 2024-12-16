@@ -14,8 +14,6 @@ class _HomeView1State extends State<HomeView1> {
     return true;
   }
 
-
-
   @override
   Widget build(BuildContext context) {
 
