@@ -2,40 +2,71 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
----
-
 ## Screenshots
 
 <div align="center">
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <a href="https://github.com/your_project/screenshot1">
-      <p>Home Screen</p>
-      <img src="https://github.com/user-attachments/assets/b44de5b0-e852-4f75-8d40-8dac3c094794" alt="Simulator Screenshot 1" width="150" />
-    </a>
+
+  <!-- Profile Section -->
+  <div style="margin-bottom: 30px;">
+    <h2>Profile Section</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
+      <div>
+        <a href="https://github.com/your_project/profile1">
+          <p>Profile Image 1</p>
+          <img src="https://via.placeholder.com/150" alt="Profile 1" style="width: 100%; border: 1px solid #ccc;" />
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/your_project/profile2">
+          <p>Profile Image 2</p>
+          <img src="https://via.placeholder.com/150" alt="Profile 2" style="width: 100%; border: 1px solid #ccc;" />
+        </a>
+      </div>
+    </div>
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <a href="https://github.com/your_project/screenshot2">
-      <p>Profile Screen</p>
-      <img src="https://via.placeholder.com/150" alt="Simulator Screenshot 2" width="150" />
-    </a>
+
+  <!-- Home Section -->
+  <div style="margin-bottom: 30px;">
+    <h2>Home Section</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
+      <div>
+        <a href="https://github.com/your_project/home1">
+          <p>Home Image 1</p>
+          <img src="https://via.placeholder.com/150" alt="Home 1" style="width: 100%; border: 1px solid #ccc;" />
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/your_project/home2">
+          <p>Home Image 2</p>
+          <img src="https://via.placeholder.com/150" alt="Home 2" style="width: 100%; border: 1px solid #ccc;" />
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/your_project/home3">
+          <p>Home Image 3</p>
+          <img src="https://via.placeholder.com/150" alt="Home 3" style="width: 100%; border: 1px solid #ccc;" />
+        </a>
+      </div>
+    </div>
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <a href="https://github.com/your_project/screenshot3">
-      <p>Settings Screen</p>
-      <img src="https://via.placeholder.com/150" alt="Simulator Screenshot 3" width="150" />
-    </a>
+
+  <!-- Settings Section -->
+  <div style="margin-bottom: 30px;">
+    <h2>Settings Section</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
+      <div>
+        <a href="https://github.com/your_project/settings1">
+          <p>Settings Image 1</p>
+          <img src="https://via.placeholder.com/150" alt="Settings 1" style="width: 100%; border: 1px solid #ccc;" />
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/your_project/settings2">
+          <p>Settings Image 2</p>
+          <img src="https://via.placeholder.com/150" alt="Settings 2" style="width: 100%; border: 1px solid #ccc;" />
+        </a>
+      </div>
+    </div>
   </div>
+
 </div>
