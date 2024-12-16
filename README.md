@@ -13,13 +13,13 @@ A new Flutter project.
       <div>
         <a href="https://github.com/your_project/profile1">
           <p>Profile Image 1</p>
-          <img src="https://via.placeholder.com/150" alt="Profile 1" style="width: 100%; border: 1px solid #ccc;" />
+          <img src="https://via.placeholder.com/150" alt="Profile 1" style="width: 300; border: 1px solid #ccc;" />
         </a>
       </div>
       <div>
         <a href="https://github.com/your_project/profile2">
           <p>Profile Image 2</p>
-          <img src="https://via.placeholder.com/150" alt="Profile 2" style="width: 100%; border: 1px solid #ccc;" />
+          <img src="https://via.placeholder.com/150" alt="Profile 2" style="width: 300; border: 1px solid #ccc;" />
         </a>
       </div>
     </div>
